@@ -1,0 +1,4 @@
+com\trading\instrument\data\factory\TradingSourceFactoryTest.class
+com\trading\instrument\data\utils\ConcurrrentDateComparatorTest.class
+com\trading\instrument\data\test\builder\TestDataBuilder.class
+com\trading\instrument\data\controller\InstrumentMergingControllerTest.class
